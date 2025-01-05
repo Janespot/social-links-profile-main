@@ -30,8 +30,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/Janespot/social-links-profile-main)
-- Live Site URL: [Add live site URL here](https://janespot.github.io/social-links-profile-main/)
+- [Solution URL](https://github.com/Janespot/social-links-profile-main)
+- [Live Site URL](https://janespot.github.io/social-links-profile-main/)
 
 ## My process
 
