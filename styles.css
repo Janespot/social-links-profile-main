@@ -85,16 +85,19 @@ ul li {
     padding: .8rem;
     border-radius: 5px;
     background-color: var(--grey-700);
-    font-family: "Inter-SemiBold";
     font-size: .8rem;
 }
 
 ul a {
+    font-family: "Inter-SemiBold";
     text-decoration: none;
     color: var(--white);
 }
  li:active, li:hover {
-    background-color: var(--green);
+     background-color: var(--green);
+}
+
+li:active a, li:hover a {
     color: var(--grey-900);
  }
 
