@@ -97,7 +97,8 @@ ul a {
     display: flex;
     justify-content: center;
 }
- li:active, li:hover {
+
+li:active, li:hover {
      background-color: var(--green);
 }
 
